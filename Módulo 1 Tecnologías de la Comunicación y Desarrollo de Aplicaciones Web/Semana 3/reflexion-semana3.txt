@@ -1,0 +1,9 @@
+Mantener un registro de cambios detallado mediante herramientas de control de versiones como Git
+es crucial en el desarrollo de software porque garantiza la trazabilidad y seguridad del código.
+Esta práctica permite a los desarrolladores comprender la evolución del proyecto, identificando
+con precisión qué modificaciones se realizaron, en qué momento y por qué razón. Asimismo, facilita
+la colaboración simultánea entre múltiples programadores, previniendo conflictos y permitiendo
+volver a versiones estables anteriores en caso de que ocurran fallos o errores inesperados.
+A nivel profesional, un historial limpio y documentado no solo respalda la autoría del trabajo,
+sino que también proporciona una base sólida para auditorías de código, depuración de errores
+y una entrega continua de software más confiable, organizada y eficiente para los usuarios.

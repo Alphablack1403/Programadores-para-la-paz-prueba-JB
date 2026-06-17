@@ -25,6 +25,12 @@
   * [reflexion-semana2.txt](./Módulo%201%20Tecnologías%20de%20la%20Comunicación%20y%20Desarrollo%20de%20Aplicaciones%20Web/Semana%202/reflexion-semana2.txt) - Ensayo de 9 líneas sobre el uso técnico de la consola.
   * [comandos-terminal.txt](./Módulo%201%20Tecnologías%20de%20la%20Comunicación%20y%20Desarrollo%20de%20Aplicaciones%20Web/Semana%202/comandos-terminal.txt) - Log de comandos utilizados.
 
+* **[Semana 3](./Módulo%201%20Tecnologías%20de%20la%20Comunicación%20y%20Desarrollo%20de%20Aplicaciones%20Web/Semana%203):** Git y Control de Versiones.
+  * [README.md](./Módulo%201%20Tecnologías%20de%20la%20Comunicación%20y%20Desarrollo%20de%20Aplicaciones%20Web/Semana%203/README.md) - Guía y documentación de la Semana 3.
+  * [preguntas-semana3.txt](./Módulo%201%20Tecnologías%20de%20la%20Comunicación%20y%20Desarrollo%20de%20Aplicaciones%20Web/Semana%203/preguntas-semana3.txt) - Respuestas de selección múltiple sobre Git.
+  * [conceptos-git.txt](./Módulo%201%20Tecnologías%20de%20la%20Comunicación%20y%20Desarrollo%20de%20Aplicaciones%20Web/Semana%203/conceptos-git.txt) - Definiciones técnicas (Repositorio, Commit, Push).
+  * [reflexion-semana3.txt](./Módulo%201%20Tecnologías%20de%20la%20Comunicación%20y%20Desarrollo%20de%20Aplicaciones%20Web/Semana%203/reflexion-semana3.txt) - Ensayo reflexivo de 9 líneas sobre la importancia de Git.
+
 ---
 
 ### Módulos Posteriores (Preparados)
