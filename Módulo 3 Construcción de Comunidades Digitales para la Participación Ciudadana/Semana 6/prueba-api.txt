@@ -1,0 +1,10 @@
+Respuesta del servidor para POST /registro:
+Cuando se envía una petición POST a la ruta '/registro' con el cuerpo JSON proporcionado, el
+servidor procesa los datos mediante 'req.body' y devuelve un objeto JSON con estado HTTP 200 OK.
+La respuesta contiene los datos estructurados con el estado de la operación y la información recibida:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

@@ -52,6 +52,17 @@
 
 ---
 
+### [Módulo 3: Construcción de Comunidades Digitales para la Participación Ciudadana](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana)
+
+* **[Semana 6](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%206):** Node.js, npm, JSON y req.body (Peticiones POST).
+  * [README.md](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%206/README.md) - Guía y documentación de la Semana 6.
+  * [preguntas-semana6.txt](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%206/preguntas-semana6.txt) - Respuestas de selección múltiple sobre JSON y peticiones POST.
+  * [server.js](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%206/server.js) - Servidor Express con rutas POST `/registro` e `/incidencia`.
+  * [prueba-api.txt](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%206/prueba-api.txt) - Explicación de la respuesta del servidor a la ruta `/registro`.
+  * [ejemplo-incidencia.txt](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%206/ejemplo-incidencia.txt) - Ejemplo de JSON para reporte de incidencias ciudadanas.
+  * [reflexion-semana6.txt](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%206/reflexion-semana6.txt) - Ensayo reflexivo de 9 líneas.
+
+---
+
 ### Módulos Posteriores (Preparados)
-* **Módulo 3: Construcción de Comunidades Digitales para la Participación Ciudadana**
 * **Módulo 4: Sistemas Operativos de Código Abierto y Seguridad Digital**

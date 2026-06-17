@@ -1,0 +1,9 @@
+Recibir información y reportes de forma estructurada mediante formatos estandarizados como JSON
+es fundamental para que las plataformas tecnológicas procesen y clasifiquen las alertas vecinales.
+Al contar con datos organizados en campos específicos, los sistemas informáticos pueden realizar
+filtros automáticos, priorizar emergencias críticas y asignar tareas a los departamentos encargados.
+Esta estandarización reduce significativamente los tiempos de respuesta ante incidentes ciudadanos,
+evitando pérdidas de información o ambigüedades comunes de la comunicación en texto libre.
+Además, permite acumular datos limpios a largo plazo, lo que facilita generar estadísticas locales,
+identificar zonas con problemáticas recurrentes y diseñar políticas públicas mucho más efectivas,
+respaldadas por evidencia real y transparente recolectada directamente por y para la comunidad.
