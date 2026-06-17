@@ -1,0 +1,9 @@
+El uso responsable de la información en internet es el pilar de una
+participación ciudadana digital que sea ética, crítica y constructiva.
+Cuando verificamos lo que compartimos, evitamos difundir falsedades
+que puedan dañar la convivencia social en nuestras comunidades locales.
+Esta responsabilidad también se refleja en el uso ordenado de Git,
+donde cada commit y cada cambio deben registrarse de forma clara.
+En el plano social y en el técnico, la transparencia es fundamental.
+Al final, nuestras acciones y nuestras líneas de código impactan
+directamente en la vida de otras personas y en el trabajo del equipo.

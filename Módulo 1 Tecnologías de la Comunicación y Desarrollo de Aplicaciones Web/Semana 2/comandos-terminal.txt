@@ -1,0 +1,36 @@
+# Log de comandos de la Terminal - Semana 2
+# Estudiante: Jesus Barrios
+# Correo: jbarriosm2@unicartagena.edu.co
+
+# 1. Navegación al Escritorio
+cd C:\Users\jesu1\OneDrive\Escritorio
+
+# 2. Clonado del repositorio de la semana 2
+git clone https://github.com/Alphablack1403/programadores-para-la-paz-modulo1-semana2.git
+cd programadores-para-la-paz-modulo1-semana2
+
+# 3. Mostrar ubicación actual y listar contenido
+pwd
+ls
+
+# 4. Creación de la carpeta semana2 y navegación
+mkdir semana2
+cd semana2
+
+# 5. Creación de los archivos de la actividad
+New-Item -Path . -Name "preguntas-semana2.txt" -ItemType "file"
+New-Item -Path . -Name "comandos-terminal.txt" -ItemType "file"
+New-Item -Path . -Name "reflexion-semana2.txt" -ItemType "file"
+
+# 6. Regresar a la raíz del repositorio
+cd ..
+
+# 7. Configuración local del usuario en Git
+git config --local user.name "Jesus Barrios"
+git config --local user.email "jbarriosm2@unicartagena.edu.co"
+
+# 8. Renombrado de la rama principal local a Jesus-Barrios
+git branch -m main Jesus-Barrios
+
+# 9. Verificación del estado
+git status

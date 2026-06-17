@@ -1,0 +1,9 @@
+El dominio de la terminal es una habilidad fundamental para cualquier desarrollador,
+ya que permite interactuar de forma directa, ágil y precisa con el sistema operativo.
+A través de la línea de comandos, se optimiza la navegación y la organización de los
+archivos de un proyecto, superando las limitaciones de las interfaces gráficas.
+Además, la terminal es la puerta de entrada para utilizar herramientas esenciales como
+Git, gestionar dependencias de software y automatizar flujos de trabajo avanzados.
+Saber estructurar directorios y ubicar recursos mediante comandos rápidos no solo
+mejora la productividad diaria, sino que también fomenta una comprensión más profunda
+del entorno de desarrollo y la infraestructura sobre la cual se construye el código.
