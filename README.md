@@ -33,7 +33,17 @@
 
 ---
 
+### [Módulo 2: Comunicación Digital para la Paz y la Democracia](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia)
+
+* **[Semana 4](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia/Semana%204):** Node.js, npm y Express (Servidor Básico).
+  * [README.md](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia/Semana%204/README.md) - Guía y documentación de la Semana 4.
+  * [preguntas-semana4.txt](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia/Semana%204/preguntas-semana4.txt) - Respuestas de selección múltiple sobre Node.js y Express.
+  * [package.json](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia/Semana%204/package.json) - Configuración del proyecto y dependencias.
+  * [server.js](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia/Semana%204/server.js) - Código del servidor Express básico.
+  * [reflexion-semana4.txt](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia/Semana%204/reflexion-semana4.txt) - Ensayo reflexivo de 9 líneas.
+
+---
+
 ### Módulos Posteriores (Preparados)
-* **Módulo 2: Comunicación Digital para la Paz y la Democracia**
 * **Módulo 3: Construcción de Comunidades Digitales para la Participación Ciudadana**
 * **Módulo 4: Sistemas Operativos de Código Abierto y Seguridad Digital**

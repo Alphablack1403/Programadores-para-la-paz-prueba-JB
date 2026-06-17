@@ -1,0 +1,9 @@
+El uso de tecnologías abiertas como Node.js permite a las comunidades e iniciativas ciudadanas
+desarrollar soluciones tecnológicas adaptadas de manera exacta a sus necesidades particulares.
+Al no depender de software propietario ni de costosas licencias, se reduce la brecha digital y
+se garantiza la soberanía tecnológica, permitiendo gestionar los datos locales de forma segura.
+Además, las herramientas de código abierto cuentan con comunidades globales que brindan soporte,
+facilitando el aprendizaje continuo de los ciudadanos y promoviendo la colaboración abierta.
+Esto democratiza la creación de plataformas digitales para la participación ciudadana y la paz,
+empoderando a los colectivos locales para proponer alternativas independientes de comunicación,
+y asegurando la sostenibilidad y la transparencia a largo plazo de sus propios proyectos.
