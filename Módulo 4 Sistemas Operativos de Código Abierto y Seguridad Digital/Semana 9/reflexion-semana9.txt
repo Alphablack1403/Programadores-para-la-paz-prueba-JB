@@ -1,0 +1,9 @@
+La estabilidad y seguridad de una plataforma comunitaria en un servidor son determinantes
+para garantizar que los ciudadanos puedan acceder a los servicios locales de forma continua.
+Si el servidor experimenta caídas constantes, se interrumpe la comunicación en el territorio,
+lo que puede retrasar alertas críticas, reportes de incidentes o debates ciudadanos urgentes.
+Asimismo, asegurar el entorno del servidor evita filtraciones o secuestros de información
+que vulneren la privacidad de los vecinos e inhiban su participación por miedo a represalias.
+Mantener una plataforma estable y protegida robustece la confiabilidad de la tecnología,
+promoviendo una participación masiva y organizada que empodera los procesos democráticos
+y asegura que las herramientas digitales sigan siendo útiles para el bienestar del barrio.

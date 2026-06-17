@@ -81,3 +81,11 @@
   * [seguridad-plataformas.txt](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%208/seguridad-plataformas.txt) - Prácticas de seguridad aplicadas a plataformas vecinales.
   * [reflexion-semana8.txt](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%208/reflexion-semana8.txt) - Ensayo reflexivo de 9 líneas.
   * [buenas-practicas.txt](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%208/seguridad/buenas-practicas.txt) - Tres pautas individuales de seguridad.
+
+* **[Semana 9](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%209):** Servidores y Estabilidad de Servicios Web.
+  * [README.md](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%209/README.md) - Guía y documentación de la Semana 9.
+  * [preguntas-semana9.txt](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%209/preguntas-semana9.txt) - Respuestas de selección múltiple sobre servidores y estabilidad.
+  * [server.js](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%209/server.js) - Código del servidor básico con enrutamiento de estado.
+  * [ejecucion-servidor.txt](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%209/ejecucion-servidor.txt) - Detalle de los logs de ejecución y verificación local del servidor.
+  * [componentes-servidor.txt](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%209/componentes-servidor.txt) - Explicación de los 5 elementos de un entorno de servidor.
+  * [reflexion-semana9.txt](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%209/reflexion-semana9.txt) - Ensayo reflexivo de 9 líneas.
