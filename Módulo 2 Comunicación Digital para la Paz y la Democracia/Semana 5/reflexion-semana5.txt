@@ -1,0 +1,9 @@
+Las APIs actúan como puentes de comunicación estandarizados que facilitan la transferencia ordenada
+de datos relevantes entre diversas aplicaciones y plataformas vecinales de forma instantánea.
+Al implementar una API en una comunidad, se habilita una estructura centralizada donde cualquier
+ciudadano u organización autorizada puede enviar reportes de incidentes, emergencias o alertas,
+y recibir información actualizada en tiempo real sin importar el dispositivo que se esté utilizando.
+Esto permite la integración de diferentes herramientas locales, como bots de mensajería, mapas de
+incidencias o aplicaciones móviles de monitoreo, promoviendo la interoperabilidad y el trabajo.
+Además, al centralizar y estructurar la información, se facilita el análisis de los datos para
+generar respuestas coordinadas y oportunas ante problemáticas colectivas del entorno vecinal.

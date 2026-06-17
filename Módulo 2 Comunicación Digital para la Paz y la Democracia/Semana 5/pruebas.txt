@@ -1,0 +1,12 @@
+Prueba 1 - http://localhost:3000
+Al acceder a la raíz del servidor, se ejecuta el enrutador GET '/' y se devuelve el mensaje
+de texto simple 'Servidor activo' en pantalla, indicando que el servidor web se encuentra
+encendido y respondiendo correctamente a las peticiones del navegador.
+
+Prueba 2 - http://localhost:3000/saludo
+Al acceder a esta ruta, se ejecuta el enrutador GET '/saludo' y el servidor retorna la respuesta
+'Hola comunidad', saludando de manera general a todos los miembros de la red local.
+
+Prueba 3 - http://localhost:3000/mensaje/juan
+Al acceder a esta ruta con el parámetro dinámico ':nombre' igual a 'juan', el servidor extrae
+este valor usando 'req.params.nombre' y devuelve una cadena de bienvenida personalizada: 'Hola juan'.

@@ -42,6 +42,14 @@
   * [server.js](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia/Semana%204/server.js) - Código del servidor Express básico.
   * [reflexion-semana4.txt](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia/Semana%204/reflexion-semana4.txt) - Ensayo reflexivo de 9 líneas.
 
+* **[Semana 5](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia/Semana%205):** Rutas, Endpoints y APIs con Express.
+  * [README.md](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia/Semana%205/README.md) - Guía y documentación de la Semana 5.
+  * [preguntas-semana5.txt](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia/Semana%205/preguntas-semana5.txt) - Respuestas de selección múltiple sobre enrutamientos y HTTP.
+  * [server.js](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia/Semana%205/server.js) - Servidor Express con rutas GET y POST.
+  * [pruebas.txt](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia/Semana%205/pruebas.txt) - Bitácora de pruebas de enrutamiento en el navegador.
+  * [conceptos-api.txt](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia/Semana%205/conceptos-api.txt) - Explicación sobre la ruta POST y su utilidad social.
+  * [reflexion-semana5.txt](./Módulo%202%20Comunicación%20Digital%20para%20la%20Paz%20y%20la%20Democracia/Semana%205/reflexion-semana5.txt) - Ensayo reflexivo de 9 líneas.
+
 ---
 
 ### Módulos Posteriores (Preparados)
