@@ -1,0 +1,5 @@
+1. No exponer datos personales ni información confidencial de los usuarios.
+2. Proteger credenciales de acceso mediante el uso de cifrado y gestores de contraseñas.
+3. Usar conexiones seguras y protocolos cifrados como HTTPS para la transferencia de datos.
+4. Registrar los accesos y eventos del sistema para auditar comportamientos inusuales.
+5. Limitar el acceso a información sensible únicamente a los administradores autorizados.

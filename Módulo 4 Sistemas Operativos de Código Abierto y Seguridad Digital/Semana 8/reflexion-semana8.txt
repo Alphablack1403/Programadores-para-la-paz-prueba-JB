@@ -1,0 +1,9 @@
+La seguridad digital es vital en plataformas participativas porque resguarda la privacidad
+y la integridad de los datos de ciudadanos que colaboran de manera activa en el territorio.
+En estos procesos, la exposición de datos personales o la manipulación malintencionada de
+la información puede generar desconfianza, vulnerar la seguridad física de los líderes locales
+e incluso boicotear el diálogo democrático y el desarrollo de iniciativas colectivas.
+Implementar controles rigurosos de seguridad no solo protege la infraestructura tecnológica,
+sino que garantiza un entorno seguro, libre de acoso y manipulación para la libre expresión.
+De esta manera, se consolida la confianza de la ciudadanía en las herramientas digitales,
+asegurando la sostenibilidad y la transparencia a largo plazo de los procesos participativos.

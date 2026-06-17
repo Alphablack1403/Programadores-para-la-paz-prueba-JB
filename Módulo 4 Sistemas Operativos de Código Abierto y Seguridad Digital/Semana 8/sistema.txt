@@ -1,0 +1,9 @@
+Funcionamiento de los comandos:
+El comando 'uname -a' muestra información detallada del núcleo del sistema operativo,
+como la arquitectura y versión, mientras que 'whoami' retorna el nombre del usuario
+activo que está ejecutando la sesión actual en la consola de comandos de Linux.
+
+Importancia de conocer la información del sistema:
+Permite verificar la compatibilidad al instalar paquetes de software y depurar fallos.
+Asimismo, ayuda a identificar de inmediato si existen privilegios elevados de superusuario
+requeridos para administrar configuraciones críticas y aplicar parches de seguridad.

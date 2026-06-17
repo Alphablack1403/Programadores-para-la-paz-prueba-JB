@@ -72,5 +72,12 @@
 
 ---
 
-### Módulos Posteriores (Preparados)
-* **Módulo 4: Sistemas Operativos de Código Abierto y Seguridad Digital**
+### [Módulo 4: Sistemas Operativos de Código Abierto y Seguridad Digital](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital)
+
+* **[Semana 8](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%208):** Linux, Seguridad Digital y Plataformas Comunitarias.
+  * [README.md](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%208/README.md) - Guía y documentación de la Semana 8.
+  * [preguntas-semana8.txt](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%208/preguntas-semana8.txt) - Respuestas de selección múltiple sobre Linux y ciberseguridad.
+  * [sistema.txt](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%208/sistema.txt) - Explicación de los comandos uname -a, whoami y su utilidad.
+  * [seguridad-plataformas.txt](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%208/seguridad-plataformas.txt) - Prácticas de seguridad aplicadas a plataformas vecinales.
+  * [reflexion-semana8.txt](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%208/reflexion-semana8.txt) - Ensayo reflexivo de 9 líneas.
+  * [buenas-practicas.txt](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%208/seguridad/buenas-practicas.txt) - Tres pautas individuales de seguridad.
