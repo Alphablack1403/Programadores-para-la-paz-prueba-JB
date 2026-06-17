@@ -62,6 +62,14 @@
   * [ejemplo-incidencia.txt](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%206/ejemplo-incidencia.txt) - Ejemplo de JSON para reporte de incidencias ciudadanas.
   * [reflexion-semana6.txt](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%206/reflexion-semana6.txt) - Ensayo reflexivo de 9 líneas.
 
+* **[Semana 7](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%207):** Rutas, Arrays y APIs (Reportes Comunitarios).
+  * [README.md](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%207/README.md) - Guía y documentación de la Semana 7.
+  * [preguntas-semana7.txt](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%207/preguntas-semana7.txt) - Respuestas de selección múltiple sobre Arrays y APIs.
+  * [server.js](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%207/server.js) - Servidor Express con almacenamiento en memoria y endpoints GET/POST.
+  * [prueba-reportes.txt](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%207/prueba-reportes.txt) - Documentación sobre las pruebas de la API de reportes.
+  * [ejemplos-reportes.txt](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%207/ejemplos-reportes.txt) - Dos ejemplos de reportes comunitarios en formato JSON.
+  * [reflexion-semana7.txt](./Módulo%203%20Construcción%20de%20Comunidades%20Digitales%20para%20la%20Participación%20Ciudadana/Semana%207/reflexion-semana7.txt) - Ensayo reflexivo de 9 líneas.
+
 ---
 
 ### Módulos Posteriores (Preparados)

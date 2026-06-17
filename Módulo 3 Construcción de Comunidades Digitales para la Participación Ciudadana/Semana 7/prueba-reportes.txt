@@ -1,0 +1,16 @@
+Resultado de la consulta GET /reportes:
+Al realizar una petición GET a la ruta '/reportes', el servidor responde con el código de
+estado 200 OK y devuelve un arreglo JSON que contiene la lista completa de reportes guardados
+temporalmente en la memoria RAM del servidor, estructurados con su respectivo ID, tipo y descripción.
+
+Si no se ha enviado ninguna petición POST previamente, la respuesta será una lista vacía:
+[]
+
+Si se han registrado reportes, la respuesta mostrará todos los elementos agregados de forma ordenada:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]

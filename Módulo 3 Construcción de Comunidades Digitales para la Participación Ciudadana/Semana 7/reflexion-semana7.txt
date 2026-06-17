@@ -1,0 +1,9 @@
+La implementación de plataformas tecnológicas para registrar y consultar incidencias permite a las
+comunidades ejercer una veeduría ciudadana activa, organizada y transparente sobre su entorno.
+Al digitalizar estas alertas, se crea un canal directo y ordenado de comunicación con los líderes
+locales y los entes responsables, agilizando la gestión y resolución de los problemas vecinales.
+Además, la posibilidad de consultar públicamente el estado de cada reporte fomenta la rendición de
+cuentas y previene la duplicación de reportes de una misma incidencia por distintos ciudadanos.
+A largo plazo, estos registros estructurados sirven de evidencia objetiva para priorizar obras,
+distribuir de forma más justa el presupuesto participativo y planificar proyectos de desarrollo
+comunitario orientados a mejorar de forma equitativa el bienestar y la convivencia en el barrio.
