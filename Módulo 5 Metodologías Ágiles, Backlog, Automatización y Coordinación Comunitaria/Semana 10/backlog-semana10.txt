@@ -1,0 +1,13 @@
+Historias de Usuario del Proyecto Comunitario (Veeduría Ciudadana)
+
+1. [Prioridad: Alta]
+Como ciudadano preocupado, quiero registrar una incidencia (tipo, descripción y ubicación) en la plataforma para dejar evidencia del estado de los servicios públicos en mi barrio.
+
+2. [Prioridad: Alta]
+Como coordinador de la veeduría, quiero recibir una notificación automática en Telegram cada vez que se registre un reporte para coordinar la verificación técnica.
+
+3. [Prioridad: Media]
+Como vecino interesado, quiero consultar la lista de reportes e incidencias verificadas en la web para hacer seguimiento y estar informado de la gestión local.
+
+4. [Prioridad: Baja]
+Como administrador de la plataforma, quiero exportar la lista de reportes registrados en formato JSON para generar estadísticas mensuales de incidencias comunitarias.

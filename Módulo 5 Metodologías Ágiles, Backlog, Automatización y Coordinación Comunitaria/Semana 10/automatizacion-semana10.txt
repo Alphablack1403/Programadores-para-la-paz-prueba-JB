@@ -1,0 +1,19 @@
+Diseño de Automatización con n8n y Telegram
+
+1. Evento que activa el flujo (Trigger):
+El flujo de automatización se activa mediante un evento del tipo Webhook o una solicitud HTTP
+POST que detecta cuando un ciudadano registra un nuevo reporte de incidencia en el sistema web.
+
+2. Mensaje enviado a Telegram (Action):
+El nodo de Telegram enviará un mensaje automatizado al canal de coordinación de la veeduría:
+"🚨 ¡Nuevo reporte comunitario registrado!
+Tipo de Incidencia: {{ $json.tipo }}
+Se requiere revisión por parte del equipo coordinador. Por favor, verificar el sistema local."
+
+3. Información que NO debe enviarse por seguridad:
+Por motivos de privacidad y seguridad digital, bajo ninguna circunstancia se debe incluir:
+- Nombres completos de los ciudadanos denunciantes.
+- Números de documento de identidad (cédulas o pasaportes).
+- Números de teléfono personales o correos electrónicos.
+- Direcciones domiciliares exactas o referencias privadas.
+- Claves de acceso, contraseñas o datos de credenciales del servidor.

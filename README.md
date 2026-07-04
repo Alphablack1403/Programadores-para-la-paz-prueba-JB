@@ -89,3 +89,15 @@
   * [ejecucion-servidor.txt](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%209/ejecucion-servidor.txt) - Detalle de los logs de ejecución y verificación local del servidor.
   * [componentes-servidor.txt](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%209/componentes-servidor.txt) - Explicación de los 5 elementos de un entorno de servidor.
   * [reflexion-semana9.txt](./Módulo%204%20Sistemas%20Operativos%20de%20Código%20Abierto%20y%20Seguridad%20Digital/Semana%209/reflexion-semana9.txt) - Ensayo reflexivo de 9 líneas.
+
+---
+
+### [Módulo 5: Metodologías Ágiles, Backlog, Automatización y Coordinación Comunitaria](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria)
+
+* **[Semana 10](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2010):** Metodologías Ágiles, Backlogs y Automatización de Coordinación.
+  * [README.md](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2010/README.md) - Guía y documentación de la Semana 10.
+  * [preguntas-semana10.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2010/preguntas-semana10.txt) - Respuestas del cuestionario sobre metodologías y automatización.
+  * [backlog-semana10.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2010/backlog-semana10.txt) - Historias de usuario priorizadas del proyecto.
+  * [iteracion-semana10.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2010/iteracion-semana10.txt) - Planificación del MVP e iteración inicial.
+  * [automatizacion-semana10.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2010/automatizacion-semana10.txt) - Flujo automatizado seguro mediante n8n y Telegram.
+  * [reflexion-semana10.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2010/reflexion-semana10.txt) - Ensayo reflexivo de 9 líneas.

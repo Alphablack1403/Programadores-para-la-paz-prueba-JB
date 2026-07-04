@@ -1,0 +1,18 @@
+Planificación de la Iteración
+
+1. Tareas prioritarias a desarrollar:
+- Tarea 1: Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+- Tarea 2: Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte.
+
+2. Justificación de su importancia:
+Estas dos tareas constituyen el núcleo funcional (MVP) de la solución de veeduría. Sin el
+registro de incidencias por parte del ciudadano no existiría información para procesar, y sin
+las notificaciones en Telegram, el equipo coordinador no tendría alertas inmediatas para
+atender los reportes, retrasando el tiempo de respuesta comunitaria.
+
+3. Definición de "Terminado" (Definition of Done):
+Para considerar que una tarea o funcionalidad está completamente terminada, debe cumplir
+con los siguientes criterios obligatorios de calidad:
+- Criterio 1: Funciona de acuerdo con la historia de usuario (criterios de aceptación cumplidos).
+- Criterio 2: Fue probada localmente (tanto las rutas como el flujo de automatización responden exitosamente).
+- Criterio 3: Quedó registrada y guardada de forma limpia en el control de versiones Git.

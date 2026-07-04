@@ -1,0 +1,9 @@
+Las metodologías ágiles, la automatización y las herramientas de mensajería masiva como Telegram
+permiten estructurar la participación comunitaria, convirtiendo inquietudes en tareas concretas.
+El uso de un backlog priorizado asegura que el equipo se enfoque en resolver los problemas más
+urgentes de los vecinos de manera organizada, transparente y con entregas constantes de valor.
+Por otro lado, la automatización de flujos de trabajo mediante n8n agiliza la comunicación al
+conectar la plataforma de reportes con alertas instantáneas en los canales de los coordinadores.
+Esto reduce los tiempos de respuesta ante emergencias territoriales y disminuye la carga operativa.
+Finalmente, Telegram facilita un canal masivo e inmediato para la convocatoria y coordinación,
+fortaleciendo la confianza de la ciudadanía y la efectividad de los procesos de veeduría social.
