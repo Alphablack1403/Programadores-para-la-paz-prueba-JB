@@ -1,0 +1,7 @@
+La autenticación de usuarios (login) es el proceso que verifica la identidad de una persona
+antes de permitirle interactuar con las áreas restringidas de una aplicación o servicio.
+En una plataforma comunitaria, ciertas rutas deben estar estrictamente protegidas con el fin
+de evitar modificaciones no autorizadas, ataques de denegación de servicio o filtraciones.
+Esto previene que cualquier usuario anónimo altere iniciativas ajenas o manipule votos.
+Finalmente, la plataforma nunca debe exponer de forma pública información sensible como
+contraseñas, correos, documentos personales, tokens de APIs o credenciales del servidor.

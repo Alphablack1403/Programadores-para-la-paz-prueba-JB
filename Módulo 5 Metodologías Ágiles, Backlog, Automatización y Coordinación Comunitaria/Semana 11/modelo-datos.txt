@@ -1,0 +1,27 @@
+Modelo de Datos Comunitario (Plataforma de Causas y Apoyos)
+
+Entidad: Causa
+Campos principales:
+- id: Entero (Clave primaria, autoincremental)
+- titulo: Texto (Nombre descriptivo de la iniciativa ciudadana)
+- descripcion: Texto (Detalles del problema o propuesta de mejora comunitaria)
+- categoria: Texto (Sector: salud, infraestructura, medio ambiente, etc.)
+- creador_id: Entero (Referencia al usuario que propone la causa)
+- fecha_creacion: Fecha/Hora (Momento en que se publica la causa)
+
+Propósito:
+Almacenar las causas o iniciativas propuestas por los vecinos de la comunidad, permitiendo
+su visualización, categorización e indexación dentro del portal participativo.
+
+--------------------------------------------------
+
+Entidad: Apoyo
+Campos principales:
+- id: Entero (Clave primaria, autoincremental)
+- causa_id: Entero (Clave foránea que referencia a la entidad Causa)
+- usuario_id: Entero (Clave foránea que identifica al usuario que apoya)
+- fecha_apoyo: Fecha/Hora (Fecha y hora en la que se registra el respaldo)
+
+Propósito:
+Registrar los respaldos o firmas digitales que la comunidad otorga a cada causa. Sirve para
+llevar el conteo del interés comunitario e impedir votos duplicados de un mismo ciudadano.

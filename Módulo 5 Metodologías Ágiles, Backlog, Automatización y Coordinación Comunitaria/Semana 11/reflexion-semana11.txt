@@ -1,0 +1,9 @@
+Una plataforma tecnológica enfocada en la participación ciudadana requiere un entorno sólido
+basado en una base de datos para almacenar, estructurar y consultar los aportes y causas
+propuestas por la comunidad a lo largo del tiempo, asegurando su trazabilidad e integridad.
+Asimismo, implementar mecanismos rigurosos de autenticación de usuarios resulta esencial para
+verificar la identidad de quienes proponen y respaldan ideas, previniendo abusos como los
+perfiles duplicados o el spam automatizado que deslegitime los procesos democráticos.
+Por último, la estricta protección de información sensible resguarda la privacidad de los
+ciudadanos, construyendo un entorno digital confiable donde las personas participen sin
+el temor de que sus datos personales o de ubicación sean vulnerados o expuestos públicamente.

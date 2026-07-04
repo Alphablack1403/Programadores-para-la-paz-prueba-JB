@@ -101,3 +101,11 @@
   * [iteracion-semana10.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2010/iteracion-semana10.txt) - Planificación del MVP e iteración inicial.
   * [automatizacion-semana10.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2010/automatizacion-semana10.txt) - Flujo automatizado seguro mediante n8n y Telegram.
   * [reflexion-semana10.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2010/reflexion-semana10.txt) - Ensayo reflexivo de 9 líneas.
+
+* **[Semana 11](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2011):** Base de Datos, Autenticación e Interfaz Básica.
+  * [README.md](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2011/README.md) - Guía y documentación de la Semana 11.
+  * [preguntas-semana11.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2011/preguntas-semana11.txt) - Respuestas del cuestionario sobre bases de datos y seguridad.
+  * [modelo-datos.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2011/modelo-datos.txt) - Diseño conceptual del modelo de datos de Causas y Apoyos.
+  * [autenticacion.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2011/autenticacion.txt) - Explicación sobre login y seguridad de rutas.
+  * [interfaz.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2011/interfaz.txt) - Especificación y elementos de la interfaz de la plataforma.
+  * [reflexion-semana11.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2011/reflexion-semana11.txt) - Ensayo reflexivo de 9 líneas.

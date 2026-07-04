@@ -1,0 +1,20 @@
+Descripción de la Interfaz Básica del Portal Comunitario
+
+1. Formulario para Crear una Causa:
+Sección visible solo para usuarios autenticados. Contiene un formulario con campos para el
+"Título de la Causa", "Descripción Detallada" y "Categoría". Al final, incluye un botón
+de envío con el texto "Publicar Causa" que procesa y almacena la información en la base de datos.
+
+2. Vista de Causas Disponibles:
+Un listado en cuadrículas (cards) donde se muestran todas las causas comunitarias publicadas,
+ordenadas cronológicamente. Cada tarjeta visualiza el título, la categoría y la descripción
+resumida de la propuesta para garantizar una lectura rápida por parte de los visitantes.
+
+3. Botón para Apoyar una Causa:
+Dentro de cada tarjeta de causa, se ubica un botón interactivo llamado "Apoyar esta Causa".
+Al hacer clic, realiza una petición al servidor para registrar el respaldo del usuario firmado.
+
+4. Contador de Apoyos:
+Etiqueta numérica junto al botón de apoyo de cada causa (ej. "Apoyos recibidos: 24"). El número
+se actualiza dinámicamente mediante JavaScript asíncrono (AJAX/fetch) cada vez que un nuevo
+usuario registrado hace clic en el botón de apoyo.
