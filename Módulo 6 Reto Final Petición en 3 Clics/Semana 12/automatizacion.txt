@@ -1,0 +1,17 @@
+Diseño del Flujo de Automatización
+
+1. Evento que activa la automatización (Trigger):
+El flujo de automatización se activa mediante un Webhook que se ejecuta de manera automática
+cuando el servidor de Node.js registra un nuevo apoyo en la base de datos para una causa específica.
+
+2. Mensaje enviado a Telegram (Action):
+El bot de Telegram envía un mensaje formateado al canal del grupo de trabajo comunitario:
+"📝 ¡Nuevo apoyo recibido!
+Causa Apoyada (ID): {{ $json.causa_id }}
+Fecha: {{ $json.fecha }}
+¡Gracias a los ciudadanos comprometidos con el cambio!"
+
+3. Información que NO debe enviarse por seguridad:
+Por motivos de privacidad, no se deben enviar contraseñas de usuarios, tokens de acceso a APIs,
+números de teléfono personales, direcciones de residencia, documentos de identidad nacional (cédulas)
+o cualquier otra información privada identificable de los firmantes.

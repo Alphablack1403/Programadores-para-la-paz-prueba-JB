@@ -109,3 +109,15 @@
   * [autenticacion.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2011/autenticacion.txt) - Explicación sobre login y seguridad de rutas.
   * [interfaz.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2011/interfaz.txt) - Especificación y elementos de la interfaz de la plataforma.
   * [reflexion-semana11.txt](./Módulo%205%20Metodologías%20Ágiles,%20Backlog,%20Automatización%20y%20Coordinación%20Comunitaria/Semana%2011/reflexion-semana11.txt) - Ensayo reflexivo de 9 líneas.
+
+---
+
+### [Módulo 6: Reto Final Petición en 3 Clics](./Módulo%206%20Reto%20Final%20Petición%20en%203%20Clics)
+
+* **[Semana 12](./Módulo%206%20Reto%20Final%20Petición%20en%203%20Clics/Semana%2012):** Reto Final: Petición en 3 Clics y Cierre de Curso.
+  * [README.md](./Módulo%206%20Reto%20Final%20Petición%20en%203%20Clics/Semana%2012/README.md) - Guía y documentación del reto final.
+  * [preguntas-semana12.txt](./Módulo%206%20Reto%20Final%20Petición%20en%203%20Clics/Semana%2012/preguntas-semana12.txt) - Respuestas del cuestionario final sobre la integración del sistema.
+  * [flujo-sistema.txt](./Módulo%206%20Reto%20Final%20Petición%20en%203%20Clics/Semana%2012/flujo-sistema.txt) - Secuencia lógica de funcionamiento del proyecto.
+  * [modelo-datos.txt](./Módulo%206%20Reto%20Final%20Petición%20en%203%20Clics/Semana%2012/modelo-datos.txt) - Diseño de base de datos para causas y apoyos del reto final.
+  * [automatizacion.txt](./Módulo%206%20Reto%20Final%20Petición%20en%203%20Clics/Semana%2012/automatizacion.txt) - Diseño conceptual de alertas automáticas vía Telegram.
+  * [reflexion-semana12.txt](./Módulo%206%20Reto%20Final%20Petición%20en%203%20Clics/Semana%2012/reflexion-semana12.txt) - Reflexión de cierre del curso de 9 líneas sobre empoderamiento tecnológico.

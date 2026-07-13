@@ -1,0 +1,9 @@
+Durante este curso comprendí que la tecnología es un puente extraordinario para empoderar a las
+comunidades y democratizar la participación ciudadana, siempre que se utilice de forma ética y
+responsable. Aprendí a estructurar flujos de datos completos: desde recibir datos seguros en el
+backend, administrarlos en bases de datos organizadas, hasta automatizar alertas en tiempo real
+mediante n8n y Telegram que agilizan las comunicaciones de los coordinadores locales. Asimismo,
+asimilé el impacto de automatizar herramientas formales como PDFs para canalizar exigencias.
+Por encima de todo, valoré que construir plataformas comunitarias exitosas requiere diseñar con
+seguridad digital estricta y minimización de datos personales, garantizando que el derecho a la
+libre expresión y veeduría no exponga a riesgo la privacidad e integridad de los participantes.

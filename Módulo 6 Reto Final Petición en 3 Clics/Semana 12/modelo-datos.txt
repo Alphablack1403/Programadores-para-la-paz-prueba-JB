@@ -1,0 +1,25 @@
+Modelo de Datos - Petición en 3 Clics
+
+Entidad: Causa
+Campos principales:
+- id: Entero (Identificador único, autoincremental)
+- titulo: Texto (Título o resumen corto de la causa ciudadana)
+- descripcion: Texto (Descripción detallada y justificación de la petición)
+- fecha: Fecha/Hora (Fecha y hora de creación de la iniciativa)
+
+Propósito:
+Registrar y almacenar la información de todas las causas de interés comunitario que se proponen
+en la plataforma para que los ciudadanos las puedan revisar.
+
+--------------------------------------------------
+
+Entidad: Apoyo
+Campos principales:
+- id: Entero (Identificador único, autoincremental)
+- causa_id: Entero (Clave foránea que asocia el apoyo con una causa específica)
+- nombre: Texto (Nombre o pseudónimo representativo del vecino que apoya de forma segura)
+- fecha: Fecha/Hora (Fecha y hora en la que se registró el apoyo)
+
+Propósito:
+Almacenar cada voto o firma digital de respaldo para saber qué causa está apoyando un ciudadano
+y calcular el volumen de adhesiones colectivas de forma trazable.

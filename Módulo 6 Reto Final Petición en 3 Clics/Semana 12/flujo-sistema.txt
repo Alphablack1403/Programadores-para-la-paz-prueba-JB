@@ -1,0 +1,22 @@
+Flujo de Funcionamiento del Sistema "Petición en 3 Clics"
+
+Paso 1: Creación de la Causa Comunitaria
+Un ciudadano autenticado ingresa a la plataforma y completa un formulario web proponiendo una
+causa, necesidad o iniciativa de interés colectivo (por ejemplo, pavimentar una calle).
+
+Paso 2: Registro en la Base de Datos
+Al enviar el formulario, los datos de la causa se almacenan de manera persistente y estructurada
+en la base de datos de la plataforma, quedando listos para su consulta pública.
+
+Paso 3: Recepción y Conteo de Apoyos (Firmas digitales)
+Otros vecinos acceden a la página, leen la iniciativa y hacen clic en "Apoyar". Cada respaldo se
+registra de forma individual en la base de datos y se incrementa el contador de apoyos.
+
+Paso 4: Automatización de Notificaciones
+Cada vez que la causa recibe un apoyo clave o se registra, un flujo de n8n envía una alerta
+automática por Telegram al equipo de coordinación comunitaria para el seguimiento oportuno.
+
+Paso 5: Generación y Descarga del Documento PDF
+Una vez alcanzada la meta de apoyos, el sistema compila la información de la causa y el total
+de respaldos recibidos para generar automáticamente un documento formal en formato PDF listo
+para ser impreso y presentado ante las autoridades municipales.
